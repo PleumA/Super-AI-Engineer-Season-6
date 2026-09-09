@@ -108,6 +108,9 @@ same font, same accent color for the primary series, neutral gray for anything d
 
 ## Dashboard
 
+🔗 **[Live dashboard](https://pleuma.github.io/Super-AI-Engineer-Season-6/1%20Data%20Cleansing%20Challenge/dashboard.html)**
+(hosted via GitHub Pages) — or open [`dashboard.html`](dashboard.html) locally.
+
 [`dashboard.html`](dashboard.html) is a **static, self-contained** HTML dashboard summarizing the notebook's
 findings — no build step, backend, or CDN dependency needed, just open it in a browser. It embeds the
 pre-aggregated dataset as inline JSON and bundles the [Chart.js](https://www.chartjs.org/) and

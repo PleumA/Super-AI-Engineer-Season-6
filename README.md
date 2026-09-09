@@ -23,6 +23,7 @@ go on to internships with partner organizations. Season 6 is the program's sixth
 - Dataset 1 — ชุดข้อมูลเหตุความรุนแรงในครอบครัว (Domestic Violence Incidents in Thailand): ข้อมูลสถิติ
   เหตุความรุนแรงในครอบครัว จำแนกตามพื้นที่ ประเภทเหตุการณ์และช่วงเวลา เพื่อใช้วิเคราะห์แนวโน้มปัญหาสังคมและการเข้าถึงบริการ
   ช่วยเหลือ — [source](https://www.thackle.or.th/th/dataset/84)
+- 📊 [Live dashboard](https://pleuma.github.io/Super-AI-Engineer-Season-6/1%20Data%20Cleansing%20Challenge/dashboard.html)
 
 ### 2. FahMai RAG · LLM — 37 hours challenge (27 march 19:00 - 29 march 8:00)
 
