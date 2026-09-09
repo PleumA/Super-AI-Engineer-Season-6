@@ -1,0 +1,12 @@
+# macOS
+__MACOSX/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editors / IDEs
+.vscode/
+.idea/
