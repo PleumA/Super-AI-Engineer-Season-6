@@ -1,0 +1,1 @@
+['B_WORD', 'E_WORD', 'I_WORD']
